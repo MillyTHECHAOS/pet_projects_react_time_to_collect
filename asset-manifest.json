@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet_projects_react_time_to_collect/static/css/main.bbc03f6a.css",
+    "main.js": "/pet_projects_react_time_to_collect/static/js/main.255c54c2.js",
+    "index.html": "/pet_projects_react_time_to_collect/index.html",
+    "main.bbc03f6a.css.map": "/pet_projects_react_time_to_collect/static/css/main.bbc03f6a.css.map",
+    "main.255c54c2.js.map": "/pet_projects_react_time_to_collect/static/js/main.255c54c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc03f6a.css",
+    "static/js/main.255c54c2.js"
+  ]
+}
